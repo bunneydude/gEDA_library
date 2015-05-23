@@ -82,7 +82,7 @@ MCP41x1
 T 2095 1600 8 10 1 1 0 0 1
 refdes=U?
 T -705 -500 8 10 0 1 0 0 1
-footprint=SC70_6
+footprint=SO8M
 P 0 100 300 100 1 0 0
 {
 T 0 100 5 10 0 0 0 0 1
